@@ -252,8 +252,7 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Thomas Petersen" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+              "Statistics are used much like a drunk uses a lamppost: for support, not illumination." Vin Scully
             </AboutSub>
           </AboutHero>
           <AboutDesc>
@@ -283,16 +282,15 @@ const Index = () => (
       </Divider>
       <Content speed={0.4} offset={4}>
         <Inner>
-          <Title>Get in touch</Title>
+          <Title>Kontakt</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+            Sig <a href="mailto:plizNoSp4m@domain.tld">Hej</a> eller find mig på andre twitter:{' '}
             <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
             <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Thomas Petersen.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy;2018 Thomas Petersen.{' '}
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
