@@ -158,9 +158,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hej, <br /> Jeg hedder Thomas Petersen.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>Jeg underviser, programmer quizzer og skriver online bøger.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -174,21 +174,21 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              title="Bøger"
+              link="https://www.tepedu.dk"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               This project is my entry to Adobe's #ChallengeYourPerspective contest.
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              title="Quizzes"
+              link="https://www.edutest.dk"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
               I entered the DOCMA 2017 award with this Harry Potter inspired image.
             </ProjectCard>
             <ProjectCard
-              title="Tomb Raider"
+              title="CV"
               link="https://www.behance.net/gallery/43907099/Tomb-Raider"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
@@ -250,7 +250,7 @@ const Index = () => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Thomas Petersen" />
             <AboutSub>
               The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
               Emoji into my speech to better express myself. Winky face.
@@ -291,7 +291,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
+          &copy; 2018 by Thomas Petersen.{' '}
           <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
         </Footer>
       </Content>
