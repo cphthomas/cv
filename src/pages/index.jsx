@@ -282,9 +282,7 @@ const Index = () => (
         <Inner>
           <Title>Kontakt</Title>
           <ContactText>
-            Sig <a href="mailto:plizNoSp4m@domain.tld">Hej</a> eller find mig på andre twitter:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="mailto:cphthomas@gmail.com">Skriv til mig</a> 
           </ContactText>
         </Inner>
         <Footer>
