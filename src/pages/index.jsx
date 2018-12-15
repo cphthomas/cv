@@ -185,7 +185,7 @@ const Index = () => (
               link="https://www.edutest.dk"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              Her kan du se eksempler på quizzes jeg har udviklet.
+              Her er eksempler på quizzes jeg har udviklet.
             </ProjectCard>
             <ProjectCard
               title="CV"
@@ -252,15 +252,13 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Thomas Petersen" />
             <AboutSub>
-              "Statistics are used much like a drunk uses a lamppost: for support, not illumination." Vin Scully
+              <i>"Statistics are used much like a drunk uses a lamppost: for support, not illumination."</i> <br />Vin Scully
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-            every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-            make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
-            kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
-            all right?
+            • Dataintegration, statistisk analyse og forecasting, økonometri og tidsrækkeanalyse. <br />
+              SAS, R, SPSS, Stata, VBA, Microsoft Dynamics NAV, Moodle, MoodleRooms, PeerWise, Blackboard, Fronter, JMP, Geogebra, Adobe Connect, Bash, LaTex, PHP, Wordpress.
+
           </AboutDesc>
         </Inner>
       </Content>
