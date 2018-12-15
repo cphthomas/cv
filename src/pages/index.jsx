@@ -160,7 +160,7 @@ const Index = () => (
           <BigTitle>
             Hej, <br /> Jeg hedder Thomas Petersen.
           </BigTitle>
-          <Subtitle>Jeg underviser, programmer quizzer og skriver online bøger.</Subtitle>
+          <Subtitle>Jeg underviser, programmerer quizzer og skriver online bøger.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -185,7 +185,7 @@ const Index = () => (
               link="https://www.edutest.dk"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired image.
+              Her er mit CV.
             </ProjectCard>
             <ProjectCard
               title="CV"
