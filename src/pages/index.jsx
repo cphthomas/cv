@@ -178,21 +178,21 @@ const Index = () => (
               link="https://www.tepedu.dk"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              Her er en side med de online bøger jeg har skrevet.
             </ProjectCard>
             <ProjectCard
               title="Quizzes"
               link="https://www.edutest.dk"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              Her er mit CV.
+              Her kan du se eksempler på quizzes jeg har udviklet.
             </ProjectCard>
             <ProjectCard
               title="CV"
               link="https://www.behance.net/gallery/43907099/Tomb-Raider"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
+              Her er mit CV.
             </ProjectCard>
             <ProjectCard
               title="Eagle"
